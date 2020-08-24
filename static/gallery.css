@@ -16,7 +16,8 @@ html,body{
 }
 
 body{
-	background: url("./image/background.jpg");
+	background: url("./image/background.gif");
+	background-size:100% 100%;
 }
 
 
