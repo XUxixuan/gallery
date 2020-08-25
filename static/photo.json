@@ -1,77 +1,74 @@
-{
-    "status":1,
-    "result":[
-            {
-                "id":0,
-                "name":"81",
-                "description":"2006_01_22,Kobe Bryant 81",
-                "src":"./static/image/0.jpg"
-            },
-            {
-                "id":1,
-                "name":"Manba Forever",
-                "description":"1996-2016,Mamba Never Out 8&24 RIP",
-                "src":"./static/image/1.jpg"
-            },
-             {
-                "id":2,
-                "name":"To Be Better",
-                "description":"What I’m doing right now, I’m chasing perfection.",
-                "src":"./static/image/2.jpg"
-            },
-            {
-                "id":3,
-                "name":"Gigi",
-                "description":"RIP for Gigi",
-                "src":"./static/image/3.jpg"
-            },
-            {
-                "id":4,
-                "name":"Kobe Bryant",
-                "description":"I‘m really tired,man. I just don't want to do this anymore.",
-                "src":"./static/image/4.jpg"
-            },
-            {
-                "id":5,
-                "name":"8&24",
-                "description":"Well, what the hell did you think I was?",
-                "src":"./static/image/5.jpg"
-            },
-             {
-                "id":6,
-                "name":"Mamba out",
-                "description":"Manba never out",
-                "src":"./static/image/6.jpg"
-            },
-            {
-                "id":7,
-                "name":"Father",
-                "description":"Love me or hate me, it's one or the other. Always has been. Hate my game, my swagger. Hate my fadeaway, my hunger. Hate that I'm a veteran. A champion. Hate that. Hate it with all your heart. And hate that I'm loved, for the exact same reasons.",
-                "src":"./static/image/7.jpg"
-            },
-            {
-                "id":8,
-                "name":"Champion",
-                "description":"sure someone wants to win, is that why can't i?",
-                "src":"./static/image/8.jpg"
-            },
-             {
-                "id":9,
-                "name":"Good BYE",
-                "description":"Good bye",
-                "src":"./static/image/9.jpg"
-            },
-            {
-                "id":10,
-                "name":"RIP",
-                "description":"Mamba",
-                "src":"./static/image/10.jpg"
-            },
-            {
-                "id":11,
-                "name":"Mamba Forever",
-                "description":"1996-2016,Mamba Never Out 8&24 RIP",
-                "src":"./static/image/manba.jpg"
-            }
-        ]
-}
+[
+    {
+        "id":0,
+        "name":"81",
+        "description":"2006_01_22,Kobe Bryant 81",
+        "src":"./static/image/0.jpg"
+    },
+    {
+        "id":1,
+        "name":"Manba Forever",
+        "description":"1996-2016,Mamba Never Out 8&24 RIP",
+        "src":"./static/image/1.jpg"
+    },
+     {
+        "id":2,
+        "name":"To Be Better",
+        "description":"What I’m doing right now, I’m chasing perfection.",
+        "src":"./static/image/2.jpg"
+    },
+    {
+        "id":3,
+        "name":"Gigi",
+        "description":"RIP for Gigi",
+        "src":"./static/image/3.jpg"
+    },
+    {
+        "id":4,
+        "name":"Kobe Bryant",
+        "description":"I‘m really tired,man. I just don't want to do this anymore.",
+        "src":"./static/image/4.jpg"
+    },
+    {
+        "id":5,
+        "name":"8&24",
+        "description":"Well, what the hell did you think I was?",
+        "src":"./static/image/5.jpg"
+    },
+     {
+        "id":6,
+        "name":"Mamba out",
+        "description":"Manba never out",
+        "src":"./static/image/6.jpg"
+    },
+    {
+        "id":7,
+        "name":"Father",
+        "description":"Love me or hate me, it's one or the other. Always has been. Hate my game, my swagger. Hate my fadeaway, my hunger. Hate that I'm a veteran. A champion. Hate that. Hate it with all your heart. And hate that I'm loved, for the exact same reasons.",
+        "src":"./static/image/7.jpg"
+    },
+    {
+        "id":8,
+        "name":"Champion",
+        "description":"sure someone wants to win, is that why can't i?",
+        "src":"./static/image/8.jpg"
+    },
+     {
+        "id":9,
+        "name":"Good BYE",
+        "description":"Good bye",
+        "src":"./static/image/9.jpg"
+    },
+    {
+        "id":10,
+        "name":"RIP",
+        "description":"Mamba",
+        "src":"./static/image/10.jpg"
+    },
+    {
+        "id":11,
+        "name":"Mamba Forever",
+        "description":"1996-2016,Mamba Never Out 8&24 RIP",
+        "src":"./static/image/mamba.jpg"
+    }
+]
