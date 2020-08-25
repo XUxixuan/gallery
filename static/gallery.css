@@ -23,11 +23,11 @@ body{
 
 .photo-box{
 	width: 400px;
-	height: 340px;
+	height: 300px;
 	position: absolute;
 	border-radius: 3px;
 	text-align: center;
-	color:#989d96;
+	color:black;
 	transition:all 0.4s;
 	transform-style:preserve-3d;
 }
@@ -44,7 +44,7 @@ body{
 	position: absolute;
 	top:0;
 	left: 0;
-	padding: 25px;
+	/* padding: 25px; */
 	text-align: center;
 	box-sizing:border-box;
 	backface-visibility:hidden;
